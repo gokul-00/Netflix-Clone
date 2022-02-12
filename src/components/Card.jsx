@@ -6,7 +6,7 @@ export default function Card({ src, alt }) {
 		<img
 			src={src}
 			alt={alt}
-			className='w-80 aspect-[3/4] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-125 duration-300  mx-1 my-3'
+			className='w-80 aspect-[3/4] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-125 duration-300 hover:overflow-visible mx-1 my-3'
 		/>
 	);
 }

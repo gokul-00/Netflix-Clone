@@ -1,32 +1,5 @@
 [
 	{
-		"title": "Band of Brothers",
-		"image": {
-			"height": 744,
-			"id": "/title/tt0185906/images/rm1833146624",
-			"url": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_.jpg",
-			"width": 485
-		}
-	},
-	{
-		"title": "Planet Earth",
-		"image": {
-			"height": 1440,
-			"id": "/title/tt0795176/images/rm736690944",
-			"url": "https://m.media-amazon.com/images/M/MV5BNmZlYzIzMTItY2EzYS00YTEyLTg0ZjEtMDMzZjM3ODdhN2UzXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_.jpg",
-			"width": 960
-		}
-	},
-	{
-		"title": "Chernobyl",
-		"image": {
-			"height": 3000,
-			"id": "/title/tt7366338/images/rm1726585857",
-			"url": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
-			"width": 2000
-		}
-	},
-	{
 		"title": "The Wire",
 		"image": {
 			"height": 1440,
@@ -36,12 +9,75 @@
 		}
 	},
 	{
+		"title": "Planet Earth II",
+		"image": {
+			"height": 2400,
+			"id": "/title/tt5491994/images/rm3688367616",
+			"url": "https://m.media-amazon.com/images/M/MV5BZWYxODViMGYtMGE2ZC00ZGQ3LThhMWUtYTVkNGE3OWU4NWRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
+			"width": 1600
+		}
+	},
+	{
+		"title": "Blue Planet II",
+		"image": {
+			"height": 597,
+			"id": "/title/tt6769208/images/rm1947441153",
+			"url": "https://m.media-amazon.com/images/M/MV5BYjg2ODk0MjUtNmMzZS00MjY0LWI1YWMtN2JhMjRmZGUwY2I3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+			"width": 426
+		}
+	},
+	{
 		"title": "Our Planet",
 		"image": {
 			"height": 2222,
 			"id": "/title/tt9253866/images/rm4097073920",
 			"url": "https://m.media-amazon.com/images/M/MV5BN2I1ZjA5YjQtYmQ0ZS00ZmE1LTk1ZjktNTQ5ODIzY2JiZDdhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
 			"width": 1500
+		}
+	},
+	{
+		"title": "Cosmos: A Spacetime Odyssey",
+		"image": {
+			"height": 889,
+			"id": "/title/tt2395695/images/rm3026524416",
+			"url": "https://m.media-amazon.com/images/M/MV5BZTk5OTQyZjYtMDk3Yy00YjhmLWE2MTYtZmY4NTg1YWUzZTQ0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+			"width": 600
+		}
+	},
+	{
+		"title": "Cosmos",
+		"image": {
+			"height": 1499,
+			"id": "/title/tt0081846/images/rm3879540992",
+			"url": "https://m.media-amazon.com/images/M/MV5BMTY4MGQyNjgtMzdmZS00MjQ5LWIyMzItYjYyZmQzNjVhYjMyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+			"width": 1073
+		}
+	},
+	{
+		"title": "Game of Thrones",
+		"image": {
+			"height": 1500,
+			"id": "/title/tt0944947/images/rm4204167425",
+			"url": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+			"width": 1102
+		}
+	},
+	{
+		"title": "The World at War",
+		"image": {
+			"height": 1422,
+			"id": "/title/tt0071075/images/rm3746375680",
+			"url": "https://m.media-amazon.com/images/M/MV5BYzExN2NhZDctOWEzMy00NzYwLTg3MDktNjYyNTQyOWY4MGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+			"width": 1027
+		}
+	},
+	{
+		"title": "Rick and Morty",
+		"image": {
+			"height": 1920,
+			"id": "/title/tt2861424/images/rm209331968",
+			"url": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+			"width": 1280
 		}
 	}
 ]

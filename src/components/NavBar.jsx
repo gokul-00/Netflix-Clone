@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import logo from '../assets/netflix.svg';
 import Search from './Search';
+import profile from '../assets/profile.png';
+import { BellIcon, SearchIcon } from '@heroicons/react/solid';
 
 const navigation = [
 	{ name: 'Home', href: '#', current: true },
@@ -56,12 +58,13 @@ export default function NavBar() {
 					))}
 				</div>
 				<div>
-					<a
-						href='#'
-						className='inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0'
-					>
-						{' '}
-					</a>
+					<SearchIcon className='h-7 w-7 text-blue-500 mr-5' />
+				</div>
+				<div>
+					<BellIcon className='h-7 w-7 text-blue-500 mr-5' />
+				</div>
+				<div>
+					<img src={profile} alt='profile' className='rounded' />
 				</div>
 			</div>
 		</nav>
